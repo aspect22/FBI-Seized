@@ -1,0 +1,42 @@
+.keke{
+    font-family: 'Poppins', sans-serif;
+    color: red;
+    display: block;
+    text-align: center;
+    line-height: 90px;
+}
+.main{
+    border-radius: 50px;
+    border: 15px solid #162A3E;
+    background-color:#162A3E
+}
+
+.column {
+    text-align: center;
+    margin: auto;
+    padding: 70px;
+    width: 50%;
+  }
+
+img {
+    width: 40%;
+}	
+
+.container {
+    display: flex;
+    align-items: top;
+    justify-content: top
+}
+.text {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin: auto;
+    padding: 70px;
+    width: 50%;
+    font-size: 20px;
+    color: white;
+}
+
+body {
+    background-color: #141E30
+}
